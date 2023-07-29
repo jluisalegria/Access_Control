@@ -1,6 +1,6 @@
 # Access control with RFID reader
 
-![TOP](https://github.com/jluisalegria/Access_Control/blob/master/Images/PCB Top View.png)
+![TOP](https://github.com/jluisalegria/Access_Control/blob/master/Images/TopView.png)
 # Introduction
 I made this project to participate in the IoT contest from RT-Thread.
 [RT-Thread](https://www.rt-thread.io/ "RT-Thread") is a tiny and elegant IoT Operating System.
@@ -46,7 +46,7 @@ The main of this is for using in universities, thet have too many classrooms, in
 |RLY     | PB15 |
 |+5V     | +5V  |
 
-![Demo](https://github.com/jluisalegria/Access_Control/blob/master/Images/Demo.png)
+![Demo](https://github.com/jluisalegria/Access_Control/blob/master/Images/Demo.jpg)
 ![TOP](https://github.com/jluisalegria/Access_Control/blob/master/Images/TopView.png)
 ![BOTTOM](https://github.com/jluisalegria/Access_Control/blob/master/Images/BottomView.png)
 ![ISO](https://github.com/jluisalegria/Access_Control/blob/master/Images/ISOview.png)
