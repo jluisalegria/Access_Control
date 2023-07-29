@@ -47,9 +47,11 @@ The main of this is for using in universities, thet have too many classrooms, in
 |+5V     | +5V  |
 
 # TODO:
-*Import the BSP from the repository for the WCH boards to make compile the project, with the toolchain RISC-V-GCC-WCH
-*EEPROM Library
-*RTC Library
+* Import the BSP from the repository for the WCH boards to make compile the project, with the toolchain RISC-V-GCC-WCH
+* EEPROM Library
+* RTC Library
+* Routing
+* Fab PCB
 
 
 
