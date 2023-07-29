@@ -47,8 +47,8 @@ The main of this is for using in universities, thet have too many classrooms, in
 |+5V     | +5V  |
 
 ![Demo](https://github.com/jluisalegria/Access_Control/blob/master/Images/Demo.png)
-![TOP](https://github.com/jluisalegria/Access_Control/blob/master/Images/PCB Top View.png)
-![BOTTOM](https://github.com/jluisalegria/Access_Control/blob/master/Images/PCB Bottom View.png)
-![ISO](https://github.com/jluisalegria/Access_Control/blob/master/Images/ISO view.png)
-![RFID](https://github.com/jluisalegria/Access_Control/blob/master/Images/RFID Reader.png)
+![TOP](https://github.com/jluisalegria/Access_Control/blob/master/Images/TopView.png)
+![BOTTOM](https://github.com/jluisalegria/Access_Control/blob/master/Images/BottomView.png)
+![ISO](https://github.com/jluisalegria/Access_Control/blob/master/Images/ISOview.png)
+![RFID](https://github.com/jluisalegria/Access_Control/blob/master/Images/RFIDReader.png)
 ![Board](https://github.com/jluisalegria/Access_Control/blob/master/Images/Board.png)
