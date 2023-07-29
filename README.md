@@ -1,8 +1,8 @@
-# Access control with RFID reader
+# Access control with RFID reader. IoT Contest 2023 RT-Thread.
 
 ![TOP](https://github.com/jluisalegria/Access_Control/blob/master/Images/TopView.png)
 # Introduction
-I made this project to participate in the IoT contest from RT-Thread.
+I made this project to participate in the IoT contest from RT-Thread.  
 [RT-Thread](https://www.rt-thread.io/ "RT-Thread") is a tiny and elegant IoT Operating System.
 
 RT-Thread Features
@@ -45,6 +45,13 @@ The main of this is for using in universities, thet have too many classrooms, in
 |--------|---------|
 |RLY     | PB15 |
 |+5V     | +5V  |
+
+# TODO:
+*Import the BSP from the repository for the WCH boards to make compile the project, with the toolchain RISC-V-GCC-WCH
+*EEPROM Library
+*RTC Library
+
+
 
 ![Demo](https://github.com/jluisalegria/Access_Control/blob/master/Images/Demo.jpg)
 ![TOP](https://github.com/jluisalegria/Access_Control/blob/master/Images/TopView.png)
