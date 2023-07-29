@@ -20,15 +20,15 @@ In my case I want to create this access control with the finality to add more fu
 The main of this is for using in universities, thet have too many classrooms, in this first version yo can take control of the door, and you can control the light in the classroom using your RFID card. I want to add in a future second version a Led IR, to control more devices, like mini-splits, projectors and TV's.
 
 # Hardware:
-*CH32V208RBT6. I select this version because have a LQFP version. More easy to handsolder than the CH32V208WBU6 QFN.  
-*RFID reader 125KHz. Modelo: PROID30-BE
-*Relay Omron
-*Eeprom I2C 2 MBits M24M02-DR M24M02-R
-*RTC PCF8523
+* CH32V208RBT6. I select this version because have a LQFP version. More easy to handsolder than the CH32V208WBU6 QFN.  
+* RFID reader 125KHz. Modelo: PROID30-BE
+* Relay Omron
+* Eeprom I2C 2 MBits M24M02-DR M24M02-R
+* RTC PCF8523
 
 # Software:
-*Code based on RT-Thread
-*Own develop software "Sistema de control de acceso SICARFID"
+* Code based on RT-Thread
+* Own develop software "Sistema de control de acceso SICARFID"
 
 # Wiring the Componets
 
